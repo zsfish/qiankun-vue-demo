@@ -1,2 +1,2 @@
 # qiankun-vue-demo
-主应用antdpro,微应用vue
+主应用antdpro-antd@3,微应用vue
